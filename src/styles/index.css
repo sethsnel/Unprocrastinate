@@ -6,4 +6,8 @@
     ul, ol {
         list-style: revert;
     }
+    
+    a {
+        text-decoration: revert;
+    }
 }
