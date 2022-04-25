@@ -49,10 +49,9 @@ export default function Post({ post, morePosts, preview }) {
 
 export async function getServerSideProps(context) {
   const previousSlug = context.req.cookies['current-slug']
-  console.info(previousSlug)
+
   const slugs = getPostSlugs()
   remove(slugs, previousSlug)
-  console.info(slugs)
   const randomSlugIndex = Math.floor(Math.random() * slugs.length)
 
   context.res.setHeader('set-cookie', [`current-slug=${slugs[randomSlugIndex]}`])
