@@ -21,21 +21,21 @@ export default function Post({ post, morePosts, preview }) {
       <Container>
         <Header />
         {router.isFallback ? (
-          <PostTitle>Loading…</PostTitle>
+          <PostTitle>Laden…</PostTitle>
         ) : (
           <>
             <article className="mb-32">
               <Head>
                 <title>
-                  {post.title} | Next.js Blog Example with {CMS_NAME}
+                  {post.title} | {CMS_NAME}
                 </title>
-                <meta property="og:image" content={post.ogImage.url} />
+                {(post?.ogImage?.url) && (<meta property="og:image" content={post.ogImage.url} />)}
               </Head>
               <PostHeader
-                title={post.title}
-                coverImage={post.coverImage}
-                date={post.date}
-                author={post.author}
+                title={post?.title}
+                coverImage={post?.coverImage}
+                date={post?.date}
+                author={post?.author}
               />
               <PostBody content={post.content} />
             </article>

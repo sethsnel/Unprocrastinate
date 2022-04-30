@@ -7,7 +7,7 @@ export default function Intro() {
         Unprocrastinate now!
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Kickstarters for all your tasks
+        Inspirerende kickstarters van je taken
       </h4>
     </section>
   )
