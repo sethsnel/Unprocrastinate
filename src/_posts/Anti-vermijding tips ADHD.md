@@ -3,11 +3,13 @@ title: 'Anti-vermijding tips ADHD'
 date: '2020-03-16T05:35:07.322Z'
 ---
 
+[Elke taak - wat is het specifieke doel]: </posts/Elke taak - wat is het specifieke doel/>
+
 #### De 7 anti-vermijdingstips
 1. Begin zonder dat je er zin in hebt
 1. Verwar je emotie/gevoel (welk gevoel?) niet met tijd: Je gevoel komt uit Brein 1 en verzint deze inschattingen verkeerd
 	>Will your work assignment _really_ take all week, or does it just feel that way?
-2. Creëer een specifiek, haalbaar doel ^[ [[Elke taak - wat is het specifieke doel]] ]
+2. Creëer een specifiek, haalbaar doel ^[ [Elke taak - wat is het specifieke doel][] ]
 3. Breek taken in kleine 'bit-size' stukjes
 6. Focus op hoe je het uitstel-probleem gaat oplossen
 	>By taking a few minutes to review your previous performance and focus on problem-solving, you take yourself out of the blame game and focus on eliminating factors that contribute to your procrastination.

@@ -3,6 +3,12 @@ tags: procrastination, adhd
 aliases: Uitstellen, Uitstel
 title: Vermijden
 ---
+
+[Anti-vermijding tips ADHD]: </posts/Anti-vermijding tips ADHD/>
+[Niet weten wat ik moet doen]: </posts/Niet weten wat ik moet doen/>
+[Overwhelm van taken]: </posts/Overwhelm van taken/>
+[Ugh fields (conditioning na langdurig uitstellen)]: </posts/Ugh fields (conditioning na langdurig uitstellen)>
+
 Vermijden bij [[ADHD]].
 
 # Uitstel / Vermijden
@@ -13,7 +19,7 @@ The 4 reasons why we’re procrastinating:
 
 1. [ ]  We feel like we’re not making progress
 2. [ ]  We’re not sure where to start 
-	- [[Niet weten wat ik moet doen|Niet weten wat ik moet kiezen]]
+	- [Niet weten wat ik moet doen][]
 	- [[Niet weten waar te moeten beginnen]]
 3. [ ]  We’re afraid of failing
 	- [[Faalangst]]
@@ -36,7 +42,7 @@ You don’t know what tomorrow will bring. By all means plan ahead, but don’t 
 
 ## Rationele tips
 #### Verwar tijd niet met je gevoel
-[[Anti-vermijding tips ADHD]]
+[Anti-vermijding tips ADHD][]
 
 
 **Will your work assignment _really_ take all week, or does it just feel that way?** Sometimes people with ADHD conflate feelings with time. For example, when something _feels_ really difficult, you imagine that it will take your hours to complete. When, in reality, you can complete the task in thirty minutes. A way to address this is to cultivate time awareness. The next time you have a big task, time yourself to see how long it actually takes you to complete it. If you get into the habit of timing yourself, you’ll likely realize that many tasks don’t take as long as you initially thought. ^[ [[Anti-vermijding tips ADHD]] ]
@@ -94,12 +100,12 @@ What is my overarching vision? Why does it matter?
 
 
 ## Bronnen
-- [[Anti-vermijding tips ADHD]]
+- [Anti-vermijding tips ADHD][]
 - [Why Action is so hard](https://www.scotthyoung.com/blog/2019/12/16/why-is-action-hard/)
 - [[Als dingen moeten]]
 - [[Dingen niet durven]]
 - [[Momentum]]
-- [[Overwhelm van taken]]
+- [Overwhelm van taken][]
 - [[Overwhelmed in weekly review]]
-- [[Ugh fields (conditioning na langdurig uitstellen)]]
+- [Ugh fields (conditioning na langdurig uitstellen)][]
 - [[Benoemen van emoties]]

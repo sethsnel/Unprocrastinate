@@ -2,12 +2,13 @@
 title: 'Overwhelm van taken'
 ---
 
+[Ugh fields (conditioning na langdurig uitstellen)]: </posts/Ugh fields (conditioning na langdurig uitstellen)>
 
 ## Overwhelm van taken, overzicht verliezen
 >Overwhelm is het niet meer weten wat je moet doen omdat er teveel op je af komt; er is teveel keuze
 
 Wat ik dan ga doen is (gedrag):
-- Niet meer in Things durven kijken ([[Ugh fields (conditioning na langdurig uitstellen)|Pavlov taken]]) ^13ade0
+- Niet meer in Things durven kijken ([Ugh fields (conditioning na langdurig uitstellen)][]) ^13ade0
 - Sommige écht urgente zaken straight in de agenda zetten omdat ik geen zin meer heb om in Things te kijken 
 
 ## Oplossing
@@ -20,4 +21,4 @@ Wat ik dan ga doen is (gedrag):
 
 Gerelateerd:
 - [[Overwhelmed in weekly review]]
-- [[Ugh fields (conditioning na langdurig uitstellen)]]
+- [Ugh fields (conditioning na langdurig uitstellen)][]

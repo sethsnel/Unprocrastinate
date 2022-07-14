@@ -6,6 +6,6 @@ export default function DateFormatter({ dateString }) {
     return <time dateTime={dateString}>{format(date, 'LLLL	d, yyyy')}</time>
   }
   finally {
-    return <span>geen datum</span>
+    return <></>
   }  
 }

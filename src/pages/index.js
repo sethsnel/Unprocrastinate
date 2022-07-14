@@ -18,6 +18,7 @@ export default function Index({ allPosts }) {
         </Head>
         <Container>
           <Intro />
+          <p>Uitgelicht artikel</p>
           {heroPost && (
             <HeroPost
               title={heroPost.title}

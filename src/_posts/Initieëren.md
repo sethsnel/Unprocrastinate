@@ -5,6 +5,11 @@ title: Initieëren
 date: '2020-04-30T12:00:00Z'
 ---
 
+[Vermijden]: /posts/Vermijden
+[Mood response]: </posts/Mood response>
+[Overwhelm van taken]: </posts/Overwhelm van taken>
+[Ugh fields (conditioning na langdurig uitstellen)]: </posts/Ugh fields (conditioning na langdurig uitstellen)>
+
 ## Probleem
 Initiëren is een van de **fundamentele** problemen bij [[ADHD]]. Iets beginnen kost ontzettend veel energie
 
@@ -22,12 +27,12 @@ Initiëren is een van de **fundamentele** problemen bij [[ADHD]]. Iets beginnen 
 - Eerstvolgende actie opschrijven
 
 ## Gerelateerd
-- [[Ugh fields (conditioning na langdurig uitstellen)]]
-- [[Vermijden]]
-- [[Overwhelm van taken]]
+- [Ugh fields (conditioning na langdurig uitstellen)][]
+- [Vermijden][]
+- [Overwhelm van taken][]
 - Indirect:
 	-  [[Emoties & productiviteit]]
 	-  [[Eigenaarschap of volgen]]
 	-  [[Dingen niet durven]]
 	-  [[Beren op de weg]]
-	-  [[Mood response]]
+	-  [Mood response][]

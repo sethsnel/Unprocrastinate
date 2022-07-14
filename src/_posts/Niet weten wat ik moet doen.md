@@ -2,14 +2,16 @@
 title: 'Niet weten wat ik moet doen'
 ---
 
+[Time-out - Vermijdingsredenen]: </posts/Time-out - Vermijdingsredenen/>
+
+
 ![[Niet weten wat ik moet doen#Oplossing Doelen stellen]]
 
 ## Probleem
 Gerelateerd aan [[Paradox of choice]].
 
 Het fenomeen niet weten wat ik moet doen/kiezen maakt dat ik paralyseer en juist andere dingen ga doen. Dit ondanks [[Inname|Medicatie]].
-
-Het komt voort uit [[niet weten waar te moeten beginnen]] ([[Time-out - Vermijdingsredenen]]).
+Het komt voort uit [[niet weten waar te moeten beginnen]] ([Time-out - Vermijdingsredenen][]).
 
 ## Oplossing: Doelen stellen
 - Bij welke criteria is het af?
