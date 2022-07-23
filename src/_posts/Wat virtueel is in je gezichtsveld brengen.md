@@ -1,3 +1,9 @@
+---
+tags: Gezichtsveld
+aliases: Gezichtsveld
+title: Wat virtueel is in je gezichtsveld brengen
+---
+
 - De rode puntjes zijn mijn **projecten**
 - Het blauwe is wat in mijn gezichtsveld gebeurt
 
